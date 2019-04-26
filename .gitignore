@@ -13,3 +13,6 @@
 
 # sqlite
 .db
+
+# vscode setting files
+.vscode
